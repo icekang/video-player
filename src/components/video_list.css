@@ -1,0 +1,35 @@
+.col-md-4-list-group{
+    /* font color */
+    /* margin-top: 0; */
+    /* margin-left: 0px; */
+    width: 33%;
+    color: white;
+    background-color: #282828;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    height: 100vh;
+    overflow-y: auto;
+    list-style-type:none;
+    /* float: right; */
+    /* display: inline-block; */
+    /* width */
+        
+}
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #888; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+}

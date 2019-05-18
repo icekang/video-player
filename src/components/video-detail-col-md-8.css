@@ -1,0 +1,30 @@
+.lol{
+    /* height: 100%;
+    min-height: 100vh; */
+    color: white;
+    background-color: #282828;
+    /* float: left; */
+    display: flex;
+    border-collapse: collapse;
+    /* width: 100%; */
+    flex-direction: column;
+    overflow: hidden;
+    margin-top: 0px;
+    margin-bottom: 0px ;
+    padding-top: 24px;
+    padding-left: 24px; 
+}
+.video-display{
+    height: 65vh;
+}
+.embed-responsive-item{
+    flex-grow: 1;
+    border: none;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;    
+}
+.ytp-cued-thumbnail-overlay-image{
+    height: 85% !important;
+}

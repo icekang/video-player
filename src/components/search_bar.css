@@ -1,0 +1,8 @@
+.bar{
+    text-align: center;
+    margin: 1%;
+}
+.bar input{
+    width: 75%;
+    height: 100%;
+}
